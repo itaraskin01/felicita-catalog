@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-05-12 10:02">
+  <shop>
+    <name>Felicita</name>
+    <company>ИП Тараскин И.А.</company>
+    <url>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Обувь</category>
+      <category id="2" parentId="1">Ботинки</category>
+      <category id="3" parentId="1">Сапоги</category>
+      <category id="4" parentId="1">Туфли</category>
+      <category id="5" parentId="1">Кроссовки/Кеды</category>
+      <category id="6" parentId="1">Балетки/Лоферы</category>
+      <category id="7" parentId="1">Босоножки</category>
+      <category id="8" parentId="1">Полуботинки</category>
+      <category id="9">Сумки</category>
+      <category id="10">Ремни</category>
+      <category id="11">Кошельки/Портмоне</category>
+      <category id="12">Аксессуары</category>
+      <category id="13">Прочее</category>
+    </categories>
+    <offers>
+      <offer id="FEL-0001" available="true">
+        <price>22450</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>4</categoryId>
+        <name>элегантные лоферы ✨ лёгкие кеды ✨ стильные босоножки Натуральная кожа, удобные колодки и универсальный дизайн — обувь, к</name>
+        <description>Весна — лучшее время, чтобы обновить гардероб и найти свою идеальную пару</description>
+        <param name="Артикул">3117</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_503@14-03-2026_23-27-08.jpg</picture>
+      </offer>
+      <offer id="FEL-0002" available="true">
+        <price>18100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>5</categoryId>
+        <name>Новинка — коллекция весна–лето 2026 В салоне Felicita продолжается поступление новой коллекции 2026 от Donna Soft</name>
+        <description>Стильные белые кеды из натуральной кожи с перфорацией — идеальная обувь для тёплого сезона. Лёгкие, дышащие и невероятно комфортные — они отлично подойдут для прогулок, путешествий и городских образов</description>
+        <param name="Артикул">3341</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_505@15-03-2026_07-24-48.jpg</picture>
+      </offer>
+      <offer id="FEL-0003" available="true">
+        <price>19600</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>7</categoryId>
+        <name>Новинка — коллекция весна–лето 2026 В салоне Felicita продолжается поступление новой коллекции 2026 от Donna Soft</name>
+        <description>Стильные босоножки из мягкой натуральной замши на лёгкой контрастной платформе — идеальное решение для летних образов. Комфортная колодка, лаконичный дизайн и универсальный цвет позволяют легко сочетать модель с платьями, брюками и летними костюмами</description>
+        <param name="Артикул">2551</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_506@16-03-2026_07-17-53.jpg</picture>
+      </offer>
+      <offer id="FEL-0004" available="true">
+        <price>21000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>4</categoryId>
+        <name>Новинка — коллекция весна–лето 2026 В салоне Felicita продолжается поступление новой коллекции 2026 от Donna Soft</name>
+        <description>Стильные босоножки из мягкой натуральной замши на лёгкой контрастной платформе — идеальное решение для летних образов. Комфортная колодка, лаконичный дизайн и универсальный цвет позволяют легко сочетать модель с платьями, брюками и летними костюмами</description>
+        <param name="Артикул">3188</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_507@16-03-2026_07-31-19.jpg</picture>
+      </offer>
+      <offer id="FEL-0005" available="true">
+        <price>19000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>7</categoryId>
+        <name>Новинка — коллекция весна–лето 2026 В салоне Felicita продолжается поступление новой коллекции 2026 от Donna Soft</name>
+        <description>Элегантные босоножки из лаковой кожи — стильное решение для летних образов. Изящные перекрестные ремешки и устойчивый каблук создают женственный силуэт, а универсальный черный цвет легко сочетается как с вечерними, так и с повседневными образами</description>
+        <param name="Артикул">2504</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_508@19-03-2026_06-14-43.jpg</picture>
+      </offer>
+      <offer id="FEL-0006" available="true">
+        <price>23000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>7</categoryId>
+        <name>Новинка — коллекция весна–лето 2026 В салоне Felicita — свежие модели Donna Soft из новой коллекции 2026</name>
+        <description>Эти лоферы — про комфорт и стиль в одном образе: мягкая замша , благородный бежевый оттенок и акцентная фурнитура создают дорогой и универсальный look на каждый день</description>
+        <param name="Артикул">3230</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_509@21-03-2026_17-22-50.jpg</picture>
+      </offer>
+      <offer id="FEL-0007" available="true">
+        <price>18000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>7</categoryId>
+        <name>Новинка — коллекция весна–лето 2026 Лёгкость, блеск и женственность — всё это в новых моделях Donna Soft ✨ Идеальный вар</name>
+        <description>Металлизированный оттенок красиво играет на свету, а удобный каблук делает эту пару идеальной на каждый день и на выход</description>
+        <param name="Артикул">2500</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_510@22-03-2026_06-58-55.jpg</picture>
+      </offer>
+      <offer id="FEL-0008" available="true">
+        <price>11100</price>
+        <oldprice>22200</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Стильный рюкзак от Marinacreazioni</name>
+        <description>Ищете уникальный аксессуар, который подчеркнет ваш образ? Представляем рюкзак Marinacreazioni арт. 5058 – идеальное сочетание моды и функциональности! Это хит, который до сих пор не теряет своей актуальности Для кого: • для тех, кто ценит итальянское качество • для любителей стильных аксессуаров • для создания неповторимого образа</description>
+        <param name="Артикул">5058</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_511@24-03-2026_18-39-07.jpg</picture>
+      </offer>
+      <offer id="FEL-0009" available="true">
+        <price>11100</price>
+        <oldprice>22200</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Стильный рюкзак от Marinacreazioni</name>
+        <description>Ищете уникальный аксессуар, который подчеркнет ваш образ? Представляем рюкзак Marinacreazioni арт. 5058 – идеальное сочетание моды и функциональности! Это хит, который до сих пор не теряет своей актуальности Для кого: • для тех, кто ценит итальянское качество • для любителей стильных аксессуаров • для создания неповторимого образа</description>
+        <param name="Артикул">6780</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_512@24-03-2026_18-41-55.jpg</picture>
+      </offer>
+      <offer id="FEL-0010" available="true">
+        <price>10950</price>
+        <oldprice>21900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <name>Ботинки Lab Milano, арт. 060 💰 Было: 21 900 ₽ 🔥 Стало: 10 950 ₽ 💥 Скидка: –10 950 ₽ (–50%) Не упустите возможность приоб</name>
+        <description>Для кого: • Для ценителей итальянского дизайна • Для тех, кто ищет универсальный аксессуар • Для создания законченного образа</description>
+        <param name="Артикул">060</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_513@25-03-2026_20-17-14.jpg</picture>
+      </offer>
+      <offer id="FEL-0011" available="true">
+        <price>12250</price>
+        <oldprice>24500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Ботинки Helena Soretti</name>
+        <description>Идеальное дополнение к вашему стилю – ботинки Helena Soretti арт. 72 Для кого: • для ценителей качества и комфорта • для тех, кто ищет стильную обувь на весну • для создания законченного образа</description>
+        <param name="Артикул">72</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_514@26-03-2026_08-32-21.jpg</picture>
+      </offer>
+      <offer id="FEL-0012" available="true">
+        <price>9350</price>
+        <oldprice>18700</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Ботинки Labmilano</name>
+        <description>Идеальное дополнение к вашему стилю – ботинки Labmilano арт. 1916. Акция распространяется на все коллекции до 2024 года Для кого: • для ценителей качества и комфорта • для тех, кто ищет стильную обувь на весну-осень • для создания законченного образа</description>
+        <param name="Артикул">1916</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_515@26-03-2026_08-54-31.jpg</picture>
+      </offer>
+      <offer id="FEL-0013" available="true">
+        <price>15450</price>
+        <oldprice>30900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>Идеальное дополнение к вашему стилю – сумка Renato Angi арт. 3007781. Акция распространяется на все коллекции до 2024 года Для кого: • Для модниц, ценящих итальянское качество • Для создания законченного образа, который подчеркнет ваш стиль • Для тех, кто ищет идеальный подарок</description>
+        <param name="Артикул">3007781</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_516@27-03-2026_18-18-45.jpg</picture>
+      </offer>
+      <offer id="FEL-0014" available="true">
+        <price>15450</price>
+        <oldprice>30900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>Идеальное дополнение к вашему стилю – сумка Renato Angi арт. 3007781. Акция распространяется на все коллекции до 2024 года Для кого: • Для модниц, ценящих итальянское качество • Для создания законченного образа, который подчеркнет ваш стиль • Для тех, кто ищет идеальный подарок</description>
+        <param name="Артикул">2240</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_517@27-03-2026_18-25-51.jpg</picture>
+      </offer>
+      <offer id="FEL-0015" available="true">
+        <price>9950</price>
+        <oldprice>19900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Туфли Fabiani</name>
+        <description>Идеальное дополнение к вашему стилю – Туфли Fabiani арт. 22301. Акция распространяется на все коллекции до 2024 года Для кого: • для тех, кто ценит стиль и качество • для создания законченного образа • для комфортных и элегантных выходов</description>
+        <param name="Артикул">22301</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_518@28-03-2026_09-29-59.jpg</picture>
+      </offer>
+      <offer id="FEL-0016" available="true">
+        <price>12200</price>
+        <oldprice>24400</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Marinacreazioni: скидка 50% Идеальное дополнение к вашему стилю – Сумка Marinacreazioni арт. 2796. Акция распростр</name>
+        <description>Для кого: • для тех, кто ценит стиль и качество • для создания законченного образа • для повседневных и элегантных выходов</description>
+        <param name="Артикул">2796</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_519@28-03-2026_14-09-28.jpg</picture>
+      </offer>
+      <offer id="FEL-0017" available="true">
+        <price>19350</price>
+        <oldprice>38700</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рюкзак Biaiadera</name>
+        <description>Идеальное дополнение к вашему стилю – рюкзак Biaiadera арт. 13. Акция распространяется на все коллекции до 2024 года Для кого: • для ежедневных дел и работы • для создания законченного образа • для тех, кто ценит стиль и функциональность</description>
+        <param name="Артикул">13</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_520@30-03-2026_07-36-23.jpg</picture>
+      </offer>
+      <offer id="FEL-0018" available="true">
+        <price>9450</price>
+        <oldprice>18900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Зимние ботинки Helena Soretti</name>
+        <description>Идеальное дополнение к вашему зимнему образу – зимние ботинки Helena Soretti арт. 0411. Акция распространяется на все коллекции до 2024 Для кого: • Девушки и женщины, ищущие стиль и комфорт • Для создания законченного образа • Для зимы и межсезонья</description>
+        <param name="Артикул">0411</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_521@31-03-2026_18-40-39.jpg</picture>
+      </offer>
+      <offer id="FEL-0019" available="true">
+        <price>9450</price>
+        <oldprice>18900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Зимние ботинки Helena Soretti</name>
+        <description>Идеальное дополнение к вашему зимнему образу – зимние ботинки Helena Soretti арт. 0411. Акция распространяется на все коллекции до 2024 Для кого: • Девушки и женщины, ищущие стиль и комфорт • Для создания законченного образа • Для зимы и межсезонья</description>
+        <param name="Артикул">0441</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_522@31-03-2026_18-43-25.jpg</picture>
+      </offer>
+      <offer id="FEL-0020" available="true">
+        <price>7250</price>
+        <oldprice>14500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Ботинки весна-осень repo</name>
+        <description>Идеальное дополнение к вашему стилю – ботинки repo арт. 13676. Акция распространяется на все коллекции до 2024 года Для кого: • для городского стиля • для межсезонья • для создания законченного образа</description>
+        <param name="Артикул">13676</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_523@02-04-2026_13-58-50.jpg</picture>
+      </offer>
+      <offer id="FEL-0021" available="true">
+        <price>7250</price>
+        <oldprice>14500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Ботинки весна-осень repo</name>
+        <description>Идеальное дополнение к вашему стилю – ботинки repo арт. 13676. Акция распространяется на все коллекции до 2024 года Для кого: • для городского стиля • для межсезонья • для создания законченного образа</description>
+        <param name="Артикул">91</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_524@02-04-2026_14-00-17.jpg</picture>
+      </offer>
+      <offer id="FEL-0022" available="true">
+        <price>11450</price>
+        <oldprice>22900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Ботинки весна-осень</name>
+        <description>Идеальное дополнение к вашему стилю – ботинки Helena Soretti арт. 24301 Для кого: • для городского стиля • для межсезонья • для создания законченного образа</description>
+        <param name="Артикул">24301</param>
+        <param name="Бренд">Helena Soretti</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_525@06-04-2026_08-28-31.jpg</picture>
+      </offer>
+      <offer id="FEL-0023" available="true">
+        <price>11450</price>
+        <oldprice>22900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Ботинки весна-осень</name>
+        <description>Идеальное дополнение к вашему стилю – ботинки Helena Soretti арт. 24301 Для кого: • для городского стиля • для межсезонья • для создания законченного образа</description>
+        <param name="Артикул">2490</param>
+        <param name="Бренд">Helena Soretti</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_526@06-04-2026_08-30-52.jpg</picture>
+      </offer>
+      <offer id="FEL-0024" available="true">
+        <price>20520</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>4</categoryId>
+        <name>Лоферы Lab Milano</name>
+        <description>Лёгкие, стильные, на каждый день — замшевые лоферы с перфорацией и золотой пряжкой-трензель Для кого: • для летнего городского стиля • для лёгких прогулок и офиса • для тех, кто ценит итальянское качество</description>
+        <param name="Артикул">8033880</param>
+        <param name="Бренд">Lab Milano</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_529@07-04-2026_08-36-32.jpg</picture>
+      </offer>
+      <offer id="FEL-0025" available="true">
+        <price>24570</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>5</categoryId>
+        <name>Лоферы Lab Milano</name>
+        <description>Лёгкие, стильные, на каждый день — замшевые лоферы с перфорацией и золотой пряжкой-трензель Для кого: • для летнего городского стиля • для лёгких прогулок и офиса • для тех, кто ценит итальянское качество</description>
+        <param name="Артикул">9203</param>
+        <param name="Бренд">Lab Milano</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_530@07-04-2026_08-36-32.jpg</picture>
+      </offer>
+      <offer id="FEL-0026" available="true">
+        <price>17500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>5</categoryId>
+        <name>Кроссовки Mot. Cle</name>
+        <description>Уютные, стильные и невероятно комфортные — замшевые кроссовки с кожаной вставкой и объёмной подошвой . Идеальный баланс Casual и урбанистики Для кого: • для повседневного городского стиля • для лёгких прогулок и комфорта • для тех, кто ценит итальянскую эстетику</description>
+        <param name="Артикул">3330</param>
+        <param name="Бренд">Mot. Cle</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_533@08-04-2026_08-19-53.jpg</picture>
+      </offer>
+      <offer id="FEL-0027" available="true">
+        <price>20790</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>4</categoryId>
+        <name>Туфли Lab Milano</name>
+        <description>Нежные, женственные и невероятно удобные — перфорированные туфли с металлическим декором-пряжкой и устойчивым каблучком . Идеальный выбор для офиса и романтических прогулок Для кого: • для стильного повседневного образа • для офиса и деловых встреч • для тех, кто ценит итальянскую элегантность</description>
+        <param name="Артикул">237LAB1155</param>
+        <param name="Бренд">Lab Milano</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_535@08-04-2026_08-44-54.jpg</picture>
+      </offer>
+      <offer id="FEL-0028" available="true">
+        <price>22140</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>4</categoryId>
+        <name>Туфли Lab Milano</name>
+        <description>Нежные, лёгкие и невероятно удобные — сваеые туфли с перфорацией и фактурной подошвой . Идеальный выбор для жарких дней и романтичных прогулок Для кого: • для летнего городского стиля • для лёгких прогулок и отдыха • для тех, кто ценит итальянскую элегантность</description>
+        <param name="Артикул">817LAB1055</param>
+        <param name="Бренд">Lab Milano</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_537@09-04-2026_08-35-13.jpg</picture>
+      </offer>
+      <offer id="FEL-0029" available="true">
+        <price>18150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>5</categoryId>
+        <name>Туфли Lab Milano</name>
+        <description>Нежные, лёгкие и невероятно удобные — сваеые туфли с перфорацией и фактурной подошвой . Идеальный выбор для жарких дней и романтичных прогулок Для кого: • для летнего городского стиля • для лёгких прогулок и отдыха • для тех, кто ценит итальянскую элегантность</description>
+        <param name="Артикул">3331</param>
+        <param name="Бренд">Lab Milano</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_538@09-04-2026_08-35-13.jpg</picture>
+      </offer>
+      <offer id="FEL-0030" available="true">
+        <price>18150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>5</categoryId>
+        <name>Кроссовки Mot. Cle</name>
+        <description>Уютные, лёгкие и невероятно стильные — сваевые кроссовки с перфорацией , белыми шнурками и белой подошвой . Идеальный выбор для повседневного комфорта и современного стиля Для кого: • для повседневного городского стиля • для лёгких прогулок и активного отдыха • для тех, кто ценит итальянскую эстетику и комфорт</description>
+        <param name="Артикул">3328</param>
+        <param name="Бренд">Mot. Cle</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_541@10-04-2026_08-45-14.jpg</picture>
+      </offer>
+      <offer id="FEL-0031" available="true">
+        <price>22140</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>4</categoryId>
+        <name>Кроссовки Mot. Cle</name>
+        <description>Уютные, лёгкие и невероятно стильные — сваевые кроссовки с перфорацией , белыми шнурками и белой подошвой . Идеальный выбор для повседневного комфорта и современного стиля Для кого: • для повседневного городского стиля • для лёгких прогулок и активного отдыха • для тех, кто ценит итальянскую эстетику и комфорт</description>
+        <param name="Артикул">3526344</param>
+        <param name="Бренд">Mot. Cle</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_542@10-04-2026_08-45-14.jpg</picture>
+      </offer>
+      <offer id="FEL-0032" available="true">
+        <price>8450</price>
+        <oldprice>16900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Ботинки Helena Soretti</name>
+        <description>Лёгкие, стильные и невероятно удобные — кожаные ботинки с эластичными вставками и глубокой подошвой. Идеальный выбор для городского ритма и межсезонья Для кого: • для городского стиля • для межсезонья • для создания законченного образа</description>
+        <param name="Артикул">0211</param>
+        <param name="Бренд">Helena Soretti</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_545@11-04-2026_08-34-03.jpg</picture>
+      </offer>
+      <offer id="FEL-0033" available="true">
+        <price>8450</price>
+        <oldprice>16900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Ботинки Helena Soretti</name>
+        <description>Лёгкие, стильные и невероятно удобные — кожаные ботинки с эластичными вставками и глубокой подошвой. Идеальный выбор для городского ритма и межсезонья Для кого: • для городского стиля • для межсезонья • для создания законченного образа</description>
+        <param name="Артикул">3001881</param>
+        <param name="Бренд">Helena Soretti</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_546@11-04-2026_08-37-34.jpg</picture>
+      </offer>
+      <offer id="FEL-0034" available="true">
+        <price>22515</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Новая коллекция сумок Renato Angi — уже в Felicita Привезли 34 модели итальянских сумок из Венеции — каждая в единственн</name>
+        <description>Элегантная, стильная и невероятно удобная — кожаная сумка с уникальной фурнитурой в виде золотого корзинки с котятами . Идеальный выбор для городских образов и повседневного комфорта Для кого: • для стильного повседневного образа • для офиса и деловых встреч • для тех, кто ценит итальянское качество и уникальность</description>
+        <param name="Артикул">3551101</param>
+        <param name="Бренд">Renato Angi</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_547@12-04-2026_07-53-33.jpg</picture>
+      </offer>
+      <offer id="FEL-0035" available="true">
+        <price>33915</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Новая коллекция сумок Renato Angi — уже в Felicita Привезли 34 модели итальянских сумок из Венеции — каждая в единственн</name>
+        <description>Элегантная, стильная и невероятно удобная — кожаная сумка с уникальной фурнитурой в виде золотого корзинки с котятами . Идеальный выбор для городских образов и повседневного комфорта Для кого: • для стильного повседневного образа • для офиса и деловых встреч • для тех, кто ценит итальянское качество и уникальность</description>
+        <param name="Артикул">3500781</param>
+        <param name="Бренд">Renato Angi</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_548@12-04-2026_07-54-57.jpg</picture>
+      </offer>
+      <offer id="FEL-0036" available="true">
+        <price>27360</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>Элегантная, стильная и невероятно удобная — кожаная сумка в нежном кремовом цвете с контрастной черной фурнитурой и логотипом. Идеальный выбор для городских образов и повседневного комфорта Для кого: • для стильного повседневного образа • для офиса и деловых встреч • для тех, кто ценит итальянское качество и минимализм</description>
+        <param name="Артикул">3501136</param>
+        <param name="Бренд">Renato Angi</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_552@13-04-2026_09-04-12.jpg</picture>
+      </offer>
+      <offer id="FEL-0037" available="true">
+        <price>28215</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>Элегантная, стильная и невероятно удобная — кожаная сумка в нежном кремовом цвете с контрастной черной фурнитурой и логотипом. Идеальный выбор для городских образов и повседневного комфорта Для кого: • для стильного повседневного образа • для офиса и деловых встреч • для тех, кто ценит итальянское качество и минимализм</description>
+        <param name="Артикул">2353481</param>
+        <param name="Бренд">Renato Angi</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_553@13-04-2026_09-04-12.jpg</picture>
+      </offer>
+      <offer id="FEL-0038" available="true">
+        <price>22230</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>Две элегантные версии: черная и белая — идеальные спутники вашего образа Для кого: • для стильного повседневного образа • для офиса и деловых встреч • для тех, кто ценит итальянское качество</description>
+        <param name="Артикул">3555001</param>
+        <param name="Бренд">Renato Angi</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_556@14-04-2026_08-13-34.jpg</picture>
+      </offer>
+      <offer id="FEL-0039" available="true">
+        <price>20805</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>Две элегантные версии: черная и белая — идеальные спутники вашего образа Для кого: • для стильного повседневного образа • для офиса и деловых встреч • для тех, кто ценит итальянское качество</description>
+        <param name="Артикул">3551001</param>
+        <param name="Бренд">Renato Angi</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_557@14-04-2026_08-13-34.jpg</picture>
+      </offer>
+      <offer id="FEL-0040" available="true">
+        <price>22515</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>Две элегантные версии: черная и белая — идеальные спутники вашего образа Для кого: • для стильного повседневного образа • для офиса и деловых встреч • для тех, кто ценит итальянское качество</description>
+        <param name="Артикул">3556237</param>
+        <param name="Бренд">Renato Angi</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_558@14-04-2026_08-18-21.jpg</picture>
+      </offer>
+      <offer id="FEL-0041" available="true">
+        <price>36765</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рюкзак Renato Angi</name>
+        <description>Уникальный минималистичный дизайн с характером! Черный бакет-рюкзак с фирменным круглым держателем и лаконичной молнией. Невероятно стильно и функционально Для кого: • для смелых городских образов • для офиса и деловых встреч • для тех, кто ценит итальянский дизайн и уникальность</description>
+        <param name="Артикул">250478</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_560@15-04-2026_17-25-26.jpg</picture>
+      </offer>
+      <offer id="FEL-0042" available="true">
+        <price>29070</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рюкзак Renato Angi</name>
+        <description>Уникальный минималистичный дизайн с характером! Черный бакет-рюкзак с фирменным круглым держателем и лаконичной молнией. Невероятно стильно и функционально Для кого: • для смелых городских образов • для офиса и деловых встреч • для тех, кто ценит итальянский дизайн и уникальность</description>
+        <param name="Артикул">2604936</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_561@15-04-2026_17-25-26.jpg</picture>
+      </offer>
+      <offer id="FEL-0043" available="true">
+        <price>38760</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>Роскошная черная сумка с фактурной плетеной поверхностью. Строгий геометризим и безупречное исполнение делают её идеальным спутником для создания элегантных городских образов Для кого: • для ценительниц необычных фактур и стиля • для деловых встреч и вечерних выходов • для тех, кто выбирает качество и итальянский дизайн</description>
+        <param name="Артикул">2902481</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_564@16-04-2026_12-17-22.jpg</picture>
+      </offer>
+      <offer id="FEL-0044" available="true">
+        <price>33060</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>Роскошная черная сумка с фактурной плетеной поверхностью. Строгий геометризим и безупречное исполнение делают её идеальным спутником для создания элегантных городских образов Для кого: • для ценительниц необычных фактур и стиля • для деловых встреч и вечерних выходов • для тех, кто выбирает качество и итальянский дизайн</description>
+        <param name="Артикул">3052301</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_565@16-04-2026_12-17-22.jpg</picture>
+      </offer>
+      <offer id="FEL-0045" available="true">
+        <price>31065</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>Роскошная черная сумка-тоут из фактурной кожи с элегантной овальной вставкой из кристаллов на передней панели. Узнаваемый дизайн, прочные металлические кольца и мягкие ручки делают её идеальным спутником для любого случая Для кого: • для любительниц классики с яркими акцентами • для вечеров в городе и важных встреч • для тех, кто выбирает итальянское качество и блеск деталей</description>
+        <param name="Артикул">3257801</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_568@18-04-2026_07-50-16.jpg</picture>
+      </offer>
+      <offer id="FEL-0046" available="true">
+        <price>26220</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>Для кого: • для тех, кто ценит минимализм и комфорт • для деловых встреч и городских прогулок • для любителей итальянского качества</description>
+        <param name="Артикул">1914436</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_572@19-04-2026_07-45-01.jpg</picture>
+      </offer>
+      <offer id="FEL-0047" available="true">
+        <price>45315</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>Для кого: • для тех, кто ценит минимализм и комфорт • для деловых встреч и городских прогулок • для любителей итальянского качества</description>
+        <param name="Артикул">3402581</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_573@19-04-2026_07-45-02.jpg</picture>
+      </offer>
+      <offer id="FEL-0048" available="true">
+        <price>28215</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рюкзак</name>
+        <description>Для кого: • для тех, кто ценит комфорт и стиль • для города, путешествий и деловых поездок • для любителей итальянского качества</description>
+        <param name="Артикул">2652001</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_576@20-04-2026_07-48-07.jpg</picture>
+      </offer>
+      <offer id="FEL-0049" available="true">
+        <price>33915</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>Для кого: • для тех, кто ценит комфорт и стиль • для города, путешествий и деловых поездок • для любителей итальянского качества</description>
+        <param name="Артикул">3451217</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_577@20-04-2026_07-48-07.jpg</picture>
+      </offer>
+      <offer id="FEL-0050" available="true">
+        <price>36765</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>Для кого: • для любительниц современных аксессуаров • для городских будней и особых случаев • для тех, кто выбирает итальянское качество</description>
+        <param name="Артикул">3554217</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_580@21-04-2026_07-29-06.jpg</picture>
+      </offer>
+      <offer id="FEL-0051" available="true">
+        <price>27930</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка большая</name>
+        <description>Для кого: • для любительниц современных аксессуаров • для городских будней и особых случаев • для тех, кто выбирает итальянское качество</description>
+        <param name="Артикул">3460037</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_581@21-04-2026_07-29-06.jpg</picture>
+      </offer>
+      <offer id="FEL-0052" available="true">
+        <price>19665</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка маленькая</name>
+        <description>Для кого: • для любительниц современных аксессуаров • для городских будней и особых случаев • для тех, кто выбирает итальянское качество</description>
+        <param name="Артикул">3451437</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_582@21-04-2026_07-33-55.jpg</picture>
+      </offer>
+      <offer id="FEL-0053" available="true">
+        <price>28500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>Для кого: • для любительниц классических аксессуаров • для городских будней и деловых встреч • для тех, кто выбирает итальянское качество</description>
+        <param name="Артикул">350231</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_584@23-04-2026_06-33-48.jpg</picture>
+      </offer>
+      <offer id="FEL-0054" available="true">
+        <price>15390</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>Для кого: • для любительниц классических аксессуаров • для городских будней и деловых встреч • для тех, кто выбирает итальянское качество</description>
+        <param name="Артикул">3504042</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_585@23-04-2026_06-33-48.jpg</picture>
+      </offer>
+      <offer id="FEL-0055" available="true">
+        <price>26220</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рюкзак</name>
+        <description>Для кого: • для любительниц стильных и практичных аксессуаров • для городских прогулок, шопинга и встреч • для тех, кто ценит итальянский стиль</description>
+        <param name="Артикул">3554917</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_588@24-04-2026_07-59-03.jpg</picture>
+      </offer>
+      <offer id="FEL-0056" available="true">
+        <price>16815</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумочка</name>
+        <description>Для кого: • для любительниц стильных и практичных аксессуаров • для городских прогулок, шопинга и встреч • для тех, кто ценит итальянский стиль</description>
+        <param name="Артикул">216800</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_589@24-04-2026_07-59-03.jpg</picture>
+      </offer>
+      <offer id="FEL-0057" available="true">
+        <price>25365</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>Для кого: • для любительниц классических аксессуаров • для городских будней и деловых встреч • для тех, кто выбирает итальянское качество</description>
+        <param name="Артикул">250398</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_590@25-04-2026_23-56-34.jpg</picture>
+      </offer>
+      <offer id="FEL-0058" available="true">
+        <price>23940</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рюкзак</name>
+        <description>Для кого: • для любительниц стильных и практичных аксессуаров • для городских прогулок, шопинга и встреч • для тех, кто ценит итальянский стиль</description>
+        <param name="Артикул">3350117</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_592@26-04-2026_08-31-34.jpg</picture>
+      </offer>
+      <offer id="FEL-0059" available="true">
+        <price>21990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумочка</name>
+        <description>Для кого: • для любительниц стильных и практичных аксессуаров • для городских прогулок, шопинга и встреч • для тех, кто ценит итальянский стиль</description>
+        <param name="Артикул">3451417</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_593@26-04-2026_08-31-34.jpg</picture>
+      </offer>
+      <offer id="FEL-0060" available="true">
+        <price>22230</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>Для кого: • для любительниц минимализма и качества • для городских прогулок и деловых встреч • для тех, кто выбирает итальянский стиль</description>
+        <param name="Артикул">33595</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_595@28-04-2026_14-49-00.jpg</picture>
+      </offer>
+      <offer id="FEL-0061" available="true">
+        <price>23940</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>Для кого: • для любительниц минимализма и качества • для городских прогулок и деловых встреч • для тех, кто выбирает итальянский стиль</description>
+        <param name="Артикул">33523</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_596@28-04-2026_14-49-00.jpg</picture>
+      </offer>
+      <offer id="FEL-0062" available="true">
+        <price>33060</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>Для кого: • для любительниц современного минимализма • для городских образов и вечерних выходов • для тех, кто выбирает итальянское качество</description>
+        <param name="Артикул">35077</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_599@29-04-2026_15-52-10.jpg</picture>
+      </offer>
+      <offer id="FEL-0063" available="true">
+        <price>29070</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>Для кого: • для любительниц современного минимализма • для городских образов и вечерних выходов • для тех, кто выбирает итальянское качество</description>
+        <param name="Артикул">26095</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_600@29-04-2026_15-52-10.jpg</picture>
+      </offer>
+      <offer id="FEL-0064" available="true">
+        <price>28215</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Новая коллекция сумок Renato Angi — уже в Felicita Еще раз напоминаем, что привезли 34 модели итальянских сумок из Венец</name>
+        <description>Компактная сумка из плетеной натуральной кожи с золотистой фирменной подписью и длинным ремнем через плечо. Итальянское мастерство, фактурный дизайн и универсальный черный цвет — для тех, кто ценит стиль в деталях Для кого: • для любительниц фактурной кожи и плетения • для летних образов и городских прогулок • для тех, кто выбирает итальянское качество</description>
+        <param name="Артикул">23534</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_603@30-04-2026_08-33-10.jpg</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
