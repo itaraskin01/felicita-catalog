@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-05-12 10:02">
+  <shop>
+    <name>Felicita</name>
+    <company>ИП Тараскин И.А.</company>
+    <url>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main</url>
+    <currencies><currency id="RUB" rate="1"/></currencies>
+    <categories>
+      <category id="1">Обувь</category>
+      <category id="2" parentId="1">Ботинки</category>
+      <category id="3" parentId="1">Сапоги</category>
+      <category id="4" parentId="1">Туфли</category>
+      <category id="5" parentId="1">Кроссовки/Кеды</category>
+      <category id="6" parentId="1">Балетки/Лоферы</category>
+      <category id="7" parentId="1">Босоножки</category>
+      <category id="8" parentId="1">Полуботинки</category>
+      <category id="9">Сумки</category>
+      <category id="10">Ремни</category>
+      <category id="11">Кошельки/Портмоне</category>
+      <category id="12">Аксессуары</category>
+      <category id="13">Прочее</category>
+    </categories>
+    <offers>
+
+      <offer id="FEL-0008" available="true">
+        <price>11100</price>
+        <oldprice>22200</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Стильный рюкзак от Marinacreazioni</name>
+        <description>✨
+Стильный рюкзак от Marinacreazioni: скидка 50%!
+Ищете уникальный аксессуар, который подчеркнет ваш образ? Представляем рюкзак Marinacreazioni арт. 5058 – идеальное сочетание моды и функциональности! Это хит, который до сих пор не теряет своей актуальности.
+🎒
+Рюкзак Marinacreazioni, арт. 5058
+💰 Было: 22 200 ₽
+🔥
+Стало: 11 100 ₽
+💥
+Скидка: –11 100 ₽ (–50%)
+Акция действует, пока рюкзак есть в наличии! Не упустите свой шанс!
+Для кого:
+• для тех, кто ценит итальянское качество
+• для любителей стильных аксессуаров
+• для создания неповторимого образа
+📍 Эпицентр выгодных покупок: Ленинский пр-т, 40
+📩 Пишите в Telegram / приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk</description>
+        <param name="Артикул">5058</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_511@24-03-2026_18-39-07.jpg</picture>
+      </offer>
+      <offer id="FEL-0009" available="true">
+        <price>11100</price>
+        <oldprice>22200</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Стильный рюкзак от Marinacreazioni</name>
+        <description>✨
+Элегантная сумка от Marinacreazioni: скидка 50%!
+Идеальное дополнение к вашему стилю – сумка Marinacreazioni арт. 6780, стильная и актуальная модель 2024 года.
+👜
+Сумка Marinacreazioni, арт. 6780
+💰 Было: 20 900 ₽
+🔥
+Стало: 10 450 ₽
+💥
+Скидка: –10 450 ₽ (–50%)
+Акция действует, пока сумки есть в наличии! Не упустите свой шанс!
+Для кого:
+• для ценителей итальянского дизайна
+• для тех, кто ищет универсальный аксессуар
+• для создания законченного образа
+📍 Эпицентр выгодных покупок: Ленинский пр-т, 40
+📩 Пишите в Telegram / приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk</description>
+        <param name="Артикул">6780</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_512@24-03-2026_18-41-55.jpg</picture>
+      </offer>
+      <offer id="FEL-0010" available="true">
+        <price>10950</price>
+        <oldprice>21900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <name>Ботинки Lab Milano, арт. 060 💰 Было: 21 900 ₽ 🔥 Стало: 10 950 ₽ 💥 Скидка: –10 950 ₽ (–50%) Не упустите возможность приоб</name>
+        <description>👢
+Стильные ботинки Lab Milano – идеальное решение для весны и осени! Скидка 50%!
+Ищете комфортную и модную обувь на переменчивую погоду? Представляем вам ботинки Lab Milano арт. 060 – великолепное дополнение к вашему гардеробу!
+✨
+Ботинки Lab Milano, арт. 060
+💰 Было: 21 900 ₽
+🔥 Стало: 10 950 ₽
+💥 Скидка: –10 950 ₽ (–50%)
+Не упустите возможность приобрести качественную итальянскую обувь по невероятной цене!
+Акция 50% скидки действует только на коллекции до 2024 года включительно! Количество размеров ограничено!_
+Для кого:
+• Для ценителей итальянского дизайна
+• Для тех, кто ищет универсальный аксессуар
+• Для создания законченного образа
+📍
+Эпицентр выгодных покупок: Ленинский пр-т, 40
+📩
+Пишите в Telegram / приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk</description>
+        <param name="Артикул">060</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_513@25-03-2026_20-17-14.jpg</picture>
+      </offer>
+      <offer id="FEL-0011" available="true">
+        <price>12250</price>
+        <oldprice>24500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Ботинки Helena Soretti</name>
+        <description>✨
+Ботинки Helena Soretti: скидка 50%!
+Идеальное дополнение к вашему стилю – ботинки Helena Soretti арт. 72
+👢 Ботинки Helena Soretti, арт. 72
+💰 Было: 24 500 ₽
+🔥 Стало: 12 250 ₽
+💥
+Скидка: –12 250 ₽ (–50%)
+Акция cо скидкой действует на коллекции до 2024 года, пока ботинки есть в наличии! Не упустите свой шанс!
+Для кого:
+• для ценителей качества и комфорта
+• для тех, кто ищет стильную обувь на весну
+• для создания законченного образа
+📍 Эпицентр выгодных покупок: Ленинский пр-т, 40
+📩 Пишите в Telegram / приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk</description>
+        <param name="Артикул">72</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_514@26-03-2026_08-32-21.jpg</picture>
+      </offer>
+      <offer id="FEL-0012" available="true">
+        <price>9350</price>
+        <oldprice>18700</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Ботинки Labmilano</name>
+        <description>✨
+Lab Milano — итальянский характер на каждый день
+&gt; *“Fashion is not about looking perfect. It’s about feeling authentic.”*
+&gt; «Мода — это не про идеальность, а про ощущение себя.»
+Есть пары, которые не «на сезон», а
+на образ жизни
+.
+Эти ботинки — как раз такие.
+Lab Milano (Италия)
+Арт.
+1916
+Весна–осень
+Натуральная кожа
+Производство:
+Milano, Italy 🇮🇹
+Плотная кожа, устойчивая тракторная подошва и уверенный силуэт —
+идеальны для города, путешествий, долгих прогулок и образов «без компромиссов».
+Для кого эта пара
+* для тех, кто любит европейский casual с характером
+* для города, офиса без дресс-кода, выходных и поездок
+* для тех, кто выбирает комфорт, но не хочет выглядеть «обычно»
+🔥
+БЕССРОЧНАЯ СКИДКА –50%
+(на коллекции до 2024 года включительно)
+Цена: 18 700 ₽
+Цена по акции: 9 350 ₽
+Ваша выгода: 9 350 ₽
+Итальянская пара, которая спокойно переживёт тренды —
+и будет выглядеть актуально ещё не один сезон.</description>
+        <param name="Артикул">1916</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_515@26-03-2026_08-54-31.jpg</picture>
+      </offer>
+      <offer id="FEL-0013" available="true">
+        <price>15450</price>
+        <oldprice>30900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>✨
+Сумка Renato Angi: скидка 50%!
+Идеальное дополнение к вашему стилю – сумка Renato Angi арт. 3007781. Акция распространяется на все коллекции до 2024 года!
+👜 Сумка Renato Angi, арт. 3007781
+💰 Было: 30900 ₽
+🔥 Стало: 15450 ₽
+💥
+Скидка: –15450 ₽ (–50%)
+Акция действует, пока товар есть в наличии! Не упустите свой шанс!
+Для кого:
+• Для модниц, ценящих итальянское качество
+• Для создания законченного образа, который подчеркнет ваш стиль
+• Для тех, кто ищет идеальный подарок
+📍 Эпицентр выгодных покупок: Ленинский пр-т, 40
+📩 Пишите в Telegram / приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita_norilsk
+#RenatoAngi
+#скидка50
+#сумка
+#норильск</description>
+        <param name="Артикул">3007781</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_516@27-03-2026_18-18-45.jpg</picture>
+      </offer>
+      <offer id="FEL-0014" available="true">
+        <price>15450</price>
+        <oldprice>30900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>✨
+Сумка Fabiani: скидка 50%!
+Идеальное дополнение к вашему стилю – сумка Fabiani арт. 2240. Акция распространяется на все коллекции до 2024 года!
+👜 Сумка Fabiani, арт. 2240
+💰 Было: 26500 ₽
+🔥 Стало: 13250 ₽
+💥 Скидка:
+–13250 ₽ (–50%)
+Акция действует, пока товар есть в наличии! Не упустите свой шанс!
+Для кого:
+• Для ценительниц классического стиля
+• Для создания элегантного повседневного образа
+• Для тех, кто ищет качественный и практичный аксессуар
+📍 Эпицентр выгодных покупок: Ленинский пр-т, 40
+📩 Пишите в Telegram / приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita_norilsk
+#Fabiani
+#сумка
+#скидка50
+#норильск</description>
+        <param name="Артикул">2240</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_517@27-03-2026_18-25-51.jpg</picture>
+      </offer>
+      <offer id="FEL-0015" available="true">
+        <price>9950</price>
+        <oldprice>19900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Туфли Fabiani</name>
+        <description>✨
+Туфли Fabiani: скидка 50%!
+Идеальное дополнение к вашему стилю – Туфли Fabiani арт. 22301. Акция распространяется на все коллекции до 2024 года!
+👢👜 Туфли Fabiani, арт. 22301
+💰 Было: 19900 ₽
+🔥 Стало: 9950 ₽
+💥
+Скидка: –9950 ₽ (–50%)
+Акция действует, пока товар есть в наличии! Не упустите свой шанс!
+Для кого:
+• для тех, кто ценит стиль и качество
+• для создания законченного образа
+• для комфортных и элегантных выходов
+📍 Эпицентр выгодных покупок: Ленинский пр-т, 40
+📩 Пишите в Telegram / приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk</description>
+        <param name="Артикул">22301</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_518@28-03-2026_09-29-59.jpg</picture>
+      </offer>
+      <offer id="FEL-0016" available="true">
+        <price>12200</price>
+        <oldprice>24400</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Marinacreazioni: скидка 50% Идеальное дополнение к вашему стилю – Сумка Marinacreazioni арт. 2796. Акция распростр</name>
+        <description>✨
+Сумка Marinacreazioni: скидка 50%
+Идеальное дополнение к вашему стилю – Сумка Marinacreazioni арт. 2796. Акция распространяется на все коллекции до 2024 года!
+👜 Сумка Marinacreazioni, арт. 2796
+💰 Было: 24400 ₽
+🔥 Стало: 12200 ₽
+💥 Скидка: –12200 ₽ (–50%)
+Акция действует, пока товар есть в наличии! Не упустите свой шанс!
+Для кого:
+• для тех, кто ценит стиль и качество
+• для создания законченного образа
+• для повседневных и элегантных выходов
+📍 Эпицентр выгодных покупок: Ленинский пр-т, 40
+📩 Пишите в Telegram / приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#Felicita
+#Marinacreazioni
+#Сумка
+#Скидка50
+#Распродажа
+#Мода
+#Стиль
+#Аксессуары</description>
+        <param name="Артикул">2796</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_519@28-03-2026_14-09-28.jpg</picture>
+      </offer>
+      <offer id="FEL-0017" available="true">
+        <price>19350</price>
+        <oldprice>38700</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рюкзак Biaiadera</name>
+        <description>🎨 Рюкзак Baiadera арт. 13
+💰 Цена: 38 700 руб
+«Мода — это язык мечтателей. В ней говорят те, кто хочет быть собой и чуть больше.»
+— Маргерита Миссони (итальянский дизайнер)
+Эпатаж, арт и итальянская ирония — всё это в рюкзаке, который невозможно не заметить. Для тех, кто не боится цвета и любит быть вне шаблонов.
+⠀
+🧥 Идеально сочетается с нейтральными аутфитами — делает образ!
+📍В наличии — уточняйте в Direct.</description>
+        <param name="Артикул">13</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_520@30-03-2026_07-36-23.jpg</picture>
+      </offer>
+      <offer id="FEL-0018" available="true">
+        <price>9450</price>
+        <oldprice>18900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Зимние ботинки Helena Soretti</name>
+        <description>✨
+Зимние ботинки Helena Soretti: скидка 50%!
+Идеальное дополнение к вашему зимнему образу – зимние ботинки Helena Soretti арт. 0411. Акция распространяется на все коллекции до 2024!
+👢 Зимние ботинки Helena Soretti, арт. 0411
+💰 Было: 18 900 ₽
+🔥 Стало: 9 450 ₽
+💥
+Скидка: –9 450
+₽ (–50%)
+Акция действует, пока товар есть в наличии! Не упустите свой шанс!
+Для кого:
+• Девушки и женщины, ищущие стиль и комфорт
+• Для создания законченного образа
+• Для зимы и межсезонья
+📍 Эпицентр выгодных покупок: Ленинский пр-т, 40
+📩 Пишите в Telegram / приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#скидка
+#распродажа
+#ботинки
+#HelenaSoretti
+#моданорильск
+#аксессуары
+#обувь
+#шик
+#тренды</description>
+        <param name="Артикул">0411</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_521@31-03-2026_18-40-39.jpg</picture>
+      </offer>
+      <offer id="FEL-0019" available="true">
+        <price>9450</price>
+        <oldprice>18900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Зимние ботинки Helena Soretti</name>
+        <description>✨
+Ботинки весна-осень Helena Soretti: скидка 50%!
+Идеальное дополнение к вашему образу – ботинки весна-осень Helena Soretti арт. 0441. Акция распространяется на все коллекции до 2024 года!
+👢 Ботинки весна-осень Helena Soretti, арт. 0441
+💰 Было: 18 900 ₽
+🔥 Стало: 9 450 ₽
+💥
+Скидка: –9 450
+₽ (–50%)
+Акция действует, пока товар есть в наличии! Не упустите свой шанс!
+Для кого:
+• Девушки и женщины, ищущие стиль и комфорт
+• Для создания законченного образа
+• Для весны и осени
+📍 Эпицентр выгодных покупок: Ленинский пр-т, 40
+📩 Пишите в Telegram / приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#скидка
+#распродажа
+#ботинки
+#HelenaSoretti
+#моданорильск
+#аксессуары
+#обувь
+#весна2024
+#шик
+#тренды</description>
+        <param name="Артикул">0441</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_522@31-03-2026_18-43-25.jpg</picture>
+      </offer>
+      <offer id="FEL-0020" available="true">
+        <price>7250</price>
+        <oldprice>14500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Ботинки весна-осень repo</name>
+        <description>🖤
+Полусапоги Repo, арт. 13676
+Стильная пара на каждый день — с массивной подошвой и передней молнией, которая делает образ дерзким и современным.
+🌧 Подойдут на
+осень и весну
+🇮🇹 Сделано в Италии
+💸 Цена:
+14 500 руб
+🔥 Сейчас со
+скидкой 50%
+—
+всего 7 250 руб!
+📍 Магазин
+Felicita
+, г. Норильск, Ленинский пр-т, 40
+📲 Telegram:
+https://t.me/felicita_norilsk
+🖤 Размеры в наличии — в ЛС!
+Поспешите, пока не растаяли вместе с норильским солнцем!</description>
+        <param name="Артикул">13676</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_523@02-04-2026_13-58-50.jpg</picture>
+      </offer>
+      <offer id="FEL-0021" available="true">
+        <price>7250</price>
+        <oldprice>14500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Ботинки весна-осень repo</name>
+        <description>✨
+Сапоги весна-осень: скидка 50%!
+Идеальное дополнение к вашему стилю – сапоги арт. 91. Акция распространяется на все коллекции до 2024 года!
+👢 Сапоги, арт. 91
+💰 Было: 21 900 ₽
+🔥 Стало: 10 950 ₽
+💥 Скидка:
+–10 950 ₽
+(–50%)
+Акция действует, пока товар есть в наличии! Не упустите свой шанс!
+Для кого:
+• для городского стиля
+• для межсезонья
+• для создания законченного образа
+📍 Эпицентр выгодных покупок: Ленинский пр-т, 40
+📩 Пишите в Telegram / приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#скидка
+#распродажа
+#сапоги
+#обувь
+#моданаорильск
+#шик
+#тренды
+#весна
+#осень</description>
+        <param name="Артикул">91</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_524@02-04-2026_14-00-17.jpg</picture>
+      </offer>
+      <offer id="FEL-0022" available="true">
+        <price>11450</price>
+        <oldprice>22900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Ботинки весна-осень</name>
+        <description>✨
+Helena Soretti — обувь, которая задаёт ритм
+&gt;
+“Elegance is when the inside is as beautiful as the outside.” — Coco Chanel
+&gt; «Элегантность — это когда внутри так же красиво, как и снаружи.»
+Есть обувь «на выход», а есть обувь, которая становится частью тебя.
+Эти ботинки — как раз из второй категории.
+Helena Soretti, арт. 24301
+Весна–осень, натуральная кожа
+Массивная, но изящная платформа.
+Мягкая кожа.
+И та самая итальянская посадка, когда обувь ощущается продолжением ноги, а не аксессуаром.
+🔥 СКИДКА –50% по ликвидации старых коллекций
+Цена:
+22 900 ₽
+Цена по акции:
+11 450 ₽
+Ваша выгода:
+11 450 ₽
+Ровно половина цены — за обувь, которая будет с вами не один сезон.
+Почему стоит забирать сейчас
+Такие модели не повторяются.
+Это не поток, а штучные партии.
+И именно такие пары исчезают первыми, когда начинается настоящая распродажа.
+📍 Эпицентр жара и стиля:
+Ленинский пр-т, 40
+📩 Пишите в Telegram / приходите в бутик — подберём размеры и альтернативы
+📲 **
+@felicita_norilsk
+**</description>
+        <param name="Артикул">24301</param>
+        <param name="Бренд">Helena Soretti</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_525@06-04-2026_08-28-31.jpg</picture>
+      </offer>
+      <offer id="FEL-0023" available="true">
+        <price>11450</price>
+        <oldprice>22900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Ботинки весна-осень</name>
+        <description>✨ Сапоги весна-осень:
+скидка 50%
+!
+Идеальное дополнение к вашему стилю – сапоги Helena Soretti арт. 2490.
+👢 Сапоги, арт. 2490
+🏷️ Helena Soretti
+💰 Было: 24 900 ₽
+🔥 Стало: 12 450 ₽
+💥 Скидка:
+–12 450 ₽ (–50%)
+Акция распространяется на все коллекции до 2024 года включительно!
+Акция действует, пока товар есть в наличии! Не упустите свой шанс!
+Для кого:
+• для городского стиля
+• для межсезонья
+• для создания законченного образа
+📍 Эпицентр выгодных покупок: Ленинский пр-т, 40
+📩 Пишите в Telegram / приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#скидка
+#распродажа
+#сапоги
+#обувь
+#моданаорильск
+#helenasoretti
+#шик
+#тренды
+#весна
+#осень</description>
+        <param name="Артикул">2490</param>
+        <param name="Бренд">Helena Soretti</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_526@06-04-2026_08-30-52.jpg</picture>
+      </offer>
+      <offer id="FEL-0028" available="true">
+        <price>22140</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>4</categoryId>
+        <name>Туфли Lab Milano</name>
+        <description>✨
+Туфли Lab Milano — новая коллекция весна-лето 2026!
+Нежные, лёгкие и невероятно удобные —
+сваеые туфли
+с
+перфорацией
+и
+фактурной подошвой
+. Идеальный выбор для жарких дней и романтичных прогулок.
+👠
+Туфли
+, арт. 817LAB1055
+🏷️
+Lab Milano
+💰
+22 140 ₽
+🆕
+Новая коллекция весна-лето 2026
+уже в салоне!
+Для кого:
+• для
+летнего городского стиля
+• для
+лёгких прогулок и отдыха
+• для тех, кто ценит
+итальянскую элегантность
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#туфли
+#обувь
+#labmilano
+#новаяколлекция
+#весналето2026
+#итальянскаяобувь
+#стиль
+#мода
+#норильск</description>
+        <param name="Артикул">817LAB1055</param>
+        <param name="Бренд">Lab Milano</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_537@09-04-2026_08-35-13.jpg</picture>
+      </offer>
+      <offer id="FEL-0029" available="true">
+        <price>18150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>5</categoryId>
+        <name>Туфли Lab Milano</name>
+        <description>✨
+Кроссовки Mot. Cle — новая коллекция весна-лето 2026!
+Уютные, лёгкие и невероятно стильные —
+кожаные кроссовки
+с
+перфорацией
+,
+металлическими вставками
+и
+объёмной подошвой
+. Идеальный выбор для повседневного комфорта и современного стиля.
+👟
+Кроссовки
+, арт. 3331
+🏷️
+Mot. Cle
+💰
+18 150 ₽
+🆕
+Новая коллекция весна-лето 2026
+уже в салоне!
+Для кого:
+• для
+повседневного городского стиля
+• для
+лёгких прогулок и активного отдыха
+• для тех, кто ценит
+итальянскую эстетику и комфорт
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#кроссовки
+#обувь
+#motcle
+#новаяколлекция
+#весналето2026
+#итальянскаяобувь
+#стиль
+#мода
+#норильск</description>
+        <param name="Артикул">3331</param>
+        <param name="Бренд">Lab Milano</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_538@09-04-2026_08-35-13.jpg</picture>
+      </offer>
+      <offer id="FEL-0030" available="true">
+        <price>18150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>5</categoryId>
+        <name>Кроссовки Mot. Cle</name>
+        <description>✨
+Кроссовки Mot. Cle — новая коллекция весна-лето 2026!
+Уютные, лёгкие и невероятно стильные —
+сваевые кроссовки
+с
+перфорацией
+,
+белыми шнурками
+и
+белой подошвой
+. Идеальный выбор для повседневного комфорта и современного стиля.
+👟
+Кроссовки
+, арт. 3328
+🏷️
+Mot. Cle
+💰
+18 150 ₽
+🆕
+Новая коллекция весна-лето 2026
+уже в салоне!
+Для кого:
+• для
+повседневного городского стиля
+• для
+лёгких прогулок и активного отдыха
+• для тех, кто ценит
+итальянскую эстетику и комфорт
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#кроссовки
+#обувь
+#motcle
+#новаяколлекция
+#весналето2026
+#итальянскаяобувь
+#стиль
+#мода
+#норильск</description>
+        <param name="Артикул">3328</param>
+        <param name="Бренд">Mot. Cle</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_541@10-04-2026_08-45-14.jpg</picture>
+      </offer>
+      <offer id="FEL-0031" available="true">
+        <price>22140</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>4</categoryId>
+        <name>Кроссовки Mot. Cle</name>
+        <description>✨
+Туфли Lab Milano — новая коллекция весна-лето 2026!
+Стильные, лёгкие и невероятно удобные —
+кожаные туфли
+с
+перфорацией
+,
+металлической пряжкой
+и
+комфортной подошвой
+. Доступны в двух классических цветах:
+белый
+и
+черный
+. Идеальный выбор для повседневного комфорта и современного стиля.
+👠
+Туфли
+, арт. 3526344
+(в белом и черном цвете)
+🏷️
+Lab Milano
+💰
+22 140 ₽
+🆕
+Новая коллекция весна-лето 2026
+уже в салоне!
+Для кого:
+• для
+стильного повседневного образа
+• для
+офиса и деловых встреч
+• для тех, кто ценит
+итальянскую элегантность
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#туфли
+#обувь
+#labmilano
+#новаяколлекция
+#весналето2026
+#итальянскаяобувь
+#стиль
+#мода
+#норильск</description>
+        <param name="Артикул">3526344</param>
+        <param name="Бренд">Mot. Cle</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_542@10-04-2026_08-45-14.jpg</picture>
+      </offer>
+      <offer id="FEL-0032" available="true">
+        <price>8450</price>
+        <oldprice>16900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Ботинки Helena Soretti</name>
+        <description>🤎
+Helena Soretti, арт. 0211
+Чёрно-бежевые челси из мягкой натуральной кожи — идеальный выбор на осень 🍂
+Универсальны, практичны и
+очень итальянские
+.
+Модель легко сочетается с пальто, джинсами, трикотажем. Комфорт с первого шага!
+💰 Цена:
+16 900 руб
+🔥 Сейчас —
+со скидкой 50%
+—
+всего 8 450 руб!
+📍 Магазин
+Felicita
+, г. Норильск, Ленинский пр-т, 40
+📲 Telegram:
+https://t.me/felicita_norilsk
+📦 Количество ограничено.
+Забирайте — пока зима не застала врасплох! ❄</description>
+        <param name="Артикул">0211</param>
+        <param name="Бренд">Helena Soretti</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_545@11-04-2026_08-34-03.jpg</picture>
+      </offer>
+      <offer id="FEL-0033" available="true">
+        <price>8450</price>
+        <oldprice>16900</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Ботинки Helena Soretti</name>
+        <description>✨
+Сумка Renato Angi — скидка 50%!
+Элегантная, стильная и невероятно удобная — кожаная сумка с золотой фурнитурой, практичными молниями и регулируемым плечевым ремнём. Идеальный выбор для городских образов и повседневного комфорта!
+👜 Сумка, арт. 3001881
+🏷️ Renato Angi
+💰 Было:
+27 900 ₽
+🔥 Стало:
+13 950 ₽
+💥 Скидка:
+–13 950 ₽ (–50%)
+Акция распространяется на все коллекции до 2024 года включительно!
+Акция действует, пока товар есть в наличии! Не упустите свой шанс!
+Для кого:
+• для стильного повседневного образа
+• для офиса и деловых встреч
+• для тех, кто ценит итальянское качество
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#скидка
+#распродажа
+#коллекция2024
+#итальянскаясумка
+#стиль
+#мода
+#норильск</description>
+        <param name="Артикул">3001881</param>
+        <param name="Бренд">Helena Soretti</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_546@11-04-2026_08-37-34.jpg</picture>
+      </offer>
+      <offer id="FEL-0039" available="true">
+        <price>20805</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>✨
+Сумка Renato Angi — новая коллекция 2026!
+Две элегантные версии:
+черная
+и
+белая
+— идеальные спутники вашего образа!
+👜
+Черная сумка
+, арт. 3555001
+💰
+22 230 ₽
+👜
+Белая сумка
+, арт. 3551001
+💰
+20 805 ₽
+🏷️
+Renato Angi
+🗓️
+Коллекция 2026
+Элегантный дизайн, качественная кожа и лаконичный стиль. Выбирайте свой любимый оттенок!
+🆕
+Новая коллекция 2026
+уже в салоне!
+Для кого:
+• для
+стильного повседневного образа
+• для
+офиса и деловых встреч
+• для тех, кто ценит
+итальянское качество
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскаясумка
+#чернаясумка
+#белаясумка
+#стиль
+#мода
+#норильск</description>
+        <param name="Артикул">3551001</param>
+        <param name="Бренд">Renato Angi</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_557@14-04-2026_08-13-34.jpg</picture>
+      </offer>
+      <offer id="FEL-0040" available="true">
+        <price>22515</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>✨
+Сумка Renato Angi — новая коллекция 2026!
+Элегантная, стильная и невероятно удобная —
+черная кожаная сумка
+с контрастным замшевым дизайном и золотой фурнитурой. Идеальный выбор для городских образов и повседневного комфорта!
+👜
+Сумка
+, арт. 3556237
+🏷️
+Renato Angi
+🗓️
+Коллекция 2026
+💰
+22 515 ₽
+🆕
+Новая коллекция 2026
+уже в салоне!
+Для кого:
+• для
+стильного повседневного образа
+• для
+офиса и деловых встреч
+• для тех, кто ценит
+итальянское качество
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскаясумка
+#чернаясумка
+#стиль
+#мода
+#норильск</description>
+        <param name="Артикул">3556237</param>
+        <param name="Бренд">Renato Angi</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_558@14-04-2026_08-18-21.jpg</picture>
+      </offer>
+      <offer id="FEL-0041" available="true">
+        <price>36765</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рюкзак Renato Angi</name>
+        <description>✨
+Рюкзак Renato Angi — новая коллекция 2026!
+Уникальный минималистичный дизайн с характером!
+Черный бакет-рюкзак
+с фирменным круглым держателем и лаконичной молнией. Невероятно стильно и функционально!
+🎒
+Рюкзак
+, арт. 250478
+🏷
+Renato Angi
+🗓
+Коллекция 2026
+💰
+36 765 ₽
+🆕
+Новая коллекция 2026
+уже в салоне!
+Для кого:
+• для
+смелых городских образов
+• для
+офиса и деловых встреч
+• для тех, кто ценит
+итальянский дизайн и уникальность
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#рюкзаки
+#аксессуары
+#renatoangi
+#cromia
+#новаяколлекция2026
+#итальянскийрюкзак
+#стиль
+#мода
+#норильск
+#минимализм</description>
+        <param name="Артикул">250478</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_560@15-04-2026_17-25-26.jpg</picture>
+      </offer>
+      <offer id="FEL-0043" available="true">
+        <price>38760</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>✨
+Сумка Renato Angi — новая коллекция 2026!
+Роскошная черная сумка с фактурной плетеной поверхностью. Строгий геометризим и безупречное исполнение делают её идеальным спутником для создания элегантных городских образов.
+👜
+Сумка, арт. 2902481
+🏷
+Renato Angi
+🗓
+Коллекция 2026
+💰
+38 760 ₽
+🆕
+Новая коллекция уже в салоне!
+Для кого:
+• для ценительниц необычных фактур и стиля
+• для деловых встреч и вечерних выходов
+• для тех, кто выбирает качество и итальянский дизайн
+📍
+Ленинский пр-т, 40
+📩
+Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#плетенаясумка</description>
+        <param name="Артикул">2902481</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_564@16-04-2026_12-17-22.jpg</picture>
+      </offer>
+      <offer id="FEL-0045" available="true">
+        <price>31065</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка Renato Angi</name>
+        <description>✨
+Сумка Renato Angi — новая коллекция 2026!
+Роскошная черная сумка-тоут из фактурной кожи с элегантной овальной вставкой из кристаллов на передней панели. Узнаваемый дизайн, прочные металлические кольца и мягкие ручки делают её идеальным спутником для любого случая.
+👜
+Сумка, арт. 3257801
+🏷
+Renato Angi
+🗓
+Коллекция 2026
+💰
+31 065 ₽
+🆕
+Новая коллекция уже в салоне!
+Для кого:
+• для любительниц классики с яркими акцентами
+• для вечеров в городе и важных встреч
+• для тех, кто выбирает итальянское качество и блеск деталей
+📍
+Ленинский пр-т, 40
+📩
+Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#чернаясумка
+#кристаллы</description>
+        <param name="Артикул">3257801</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_568@18-04-2026_07-50-16.jpg</picture>
+      </offer>
+      <offer id="FEL-0046" available="true">
+        <price>26220</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>👜 Сумка
+Renato Angi
+— новая коллекция
+2026
+!
+Мягкая бежевая сумка из натуральной кожи с лаконичным дизайном и удобной ручкой. Итальянский стиль, комфортный размер и идеальные пропорции — подходит на каждый день.
+👜 Сумка, арт. 1914436
+🏷
+Renato Angi
+🗓 Коллекция
+2026
+💰 26 220 ₽
+🆕 Новая коллекция уже в салоне!
+Для кого:
+• для тех, кто ценит минимализм и комфорт
+• для деловых встреч и городских прогулок
+• для любителей итальянского качества
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#бежеваясумка
+#женскаясумка</description>
+        <param name="Артикул">1914436</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_572@19-04-2026_07-45-01.jpg</picture>
+      </offer>
+      <offer id="FEL-0047" available="true">
+        <price>45315</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>👜 Сумка
+Renato Angi
+— новая коллекция
+2026
+!
+Элегантная сумка из натуральной кожи с утончённым дизайном и удобной ручкой через плечо. Итальянское качество, продуманные детали и стильная фурнитура — для тех, кто ценит комфорт и красоту.
+👜 Сумка, арт. 3402581
+🏷
+Renato Angi
+🗓 Коллекция
+2026
+💰 45 315 ₽
+🆕 Новая коллекция уже в салоне!
+Для кого:
+• для любительниц изысканных аксессуаров
+• для городских будней и особых случаев
+• для тех, кто выбирает итальянское качество
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#женскаясумка
+#кожанаясумка</description>
+        <param name="Артикул">3402581</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_573@19-04-2026_07-45-02.jpg</picture>
+      </offer>
+      <offer id="FEL-0048" available="true">
+        <price>28215</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рюкзак</name>
+        <description>🎒 Рюкзак
+Renato Angi
+— новая коллекция
+2026
+!
+Стильный рюкзак из натуральной кожи с минималистичным дизайном и удобными регулируемыми лямками. Итальянское качество, вместительное отделение и лаконичная фурнитура — идеальный спутник на каждый день.
+🎒 Рюкзак, арт. 2652001
+🏷
+Renato Angi
+🗓 Коллекция
+2026
+💰 28 215 ₽
+🆕 Новая коллекция уже в салоне!
+Для кого:
+• для тех, кто ценит комфорт и стиль
+• для города, путешествий и деловых поездок
+• для любителей итальянского качества
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#рюкзаки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскиеаксессуары
+#стиль
+#мода
+#норильск
+#кожаныйрюкзак
+#женскийрюкзак</description>
+        <param name="Артикул">2652001</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_576@20-04-2026_07-48-07.jpg</picture>
+      </offer>
+      <offer id="FEL-0049" available="true">
+        <price>33915</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>👜 Сумка
+Renato Angi
+— новая коллекция
+2026
+!
+Стильная сумка из натуральной кожи с современным дизайном и удобной ручкой. Итальянское качество, продуманные детали и элегантная фурнитура — для тех, кто ценит комфорт и красоту.
+👜 Сумка, арт. 3451217
+🏷
+Renato Angi
+🗓 Коллекция
+2026
+💰 33 915 ₽
+🆕 Новая коллекция уже в салоне!
+Для кого:
+• для любительниц современных аксессуаров
+• для городских будней и особых случаев
+• для тех, кто выбирает итальянское качество
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#женскаясумка
+#кожанаясумка</description>
+        <param name="Артикул">3451217</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_577@20-04-2026_07-48-07.jpg</picture>
+      </offer>
+      <offer id="FEL-0050" available="true">
+        <price>36765</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>👜 Сумка
+Renato Angi
+— новая коллекция
+2026
+!
+Стильная сумка из натуральной кожи с современным дизайном и удобной ручкой. Итальянское качество, продуманные детали и элегантная фурнитура — для тех, кто ценит комфорт и красоту.
+👜 Сумка, арт. 3554217
+🏷
+Renato Angi
+🗓 Коллекция
+2026
+💰 36 765 ₽
+🆕 Новая коллекция уже в салоне!
+Для кого:
+• для любительниц современных аксессуаров
+• для городских будней и особых случаев
+• для тех, кто выбирает итальянское качество
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#женскаясумка
+#кожанаясумка</description>
+        <param name="Артикул">3554217</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_580@21-04-2026_07-29-06.jpg</picture>
+      </offer>
+      <offer id="FEL-0051" available="true">
+        <price>27930</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка большая</name>
+        <description>👜 Сумки
+Renato Angi
+— новая коллекция
+2026
+!
+Две стильные модели из натуральной кожи в едином дизайне: большая — для комфорта и вместительности, маленькая — для лёгкости и элегантности. Итальянское качество, лаконичная фурнитура и универсальный стиль — на каждый день и для особых случаев.
+👜 Сумка большая, арт. 3460037
+💰 27 930 ₽
+👜 Сумка маленькая, арт. 3451437
+💰 19 665 ₽
+🏷
+Renato Angi
+🗓 Коллекция
+2026
+🆕 Новая коллекция уже в салоне!
+Для кого:
+• для тех, кто ценит итальянский стиль и качество
+• для городских будней и встреч
+• для любителей универсальных аксессуаров
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#женскаясумка
+#кожанаясумка</description>
+        <param name="Артикул">3460037</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_581@21-04-2026_07-29-06.jpg</picture>
+      </offer>
+      <offer id="FEL-0052" available="true">
+        <price>19665</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка маленькая</name>
+        <description>👜 Сумки
+Renato Angi
+— новая коллекция
+2026
+!
+Две стильные модели из натуральной кожи в едином дизайне: большая — для комфорта и вместительности, маленькая — для лёгкости и элегантности. Итальянское качество, лаконичная фурнитура и универсальный стиль — на каждый день и для особых случаев.
+👜 Сумка большая, арт. 3460037
+💰 27 930 ₽
+👜 Сумка маленькая, арт. 3451437
+💰 19 665 ₽
+🏷
+Renato Angi
+🗓 Коллекция
+2026
+🆕 Новая коллекция уже в салоне!
+Для кого:
+• для тех, кто ценит итальянский стиль и качество
+• для городских будней и встреч
+• для любителей универсальных аксессуаров
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#женскаясумка
+#кожанаясумка</description>
+        <param name="Артикул">3451437</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_582@21-04-2026_07-33-55.jpg</picture>
+      </offer>
+      <offer id="FEL-0053" available="true">
+        <price>28500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>👜 Сумка
+Renato Angi
+— новая коллекция
+2026
+!
+Стильная сумка из натуральной кожи с лаконичным дизайном и удобной ручкой. Итальянское качество, продуманные детали и элегантная фурнитура — для тех, кто ценит комфорт и красоту.
+👜 Сумка, арт. 350231
+🏷
+Renato Angi
+🗓 Коллекция
+2026
+💰 28 500 ₽
+🆕 Новая коллекция уже в салоне!
+Для кого:
+• для любительниц классических аксессуаров
+• для городских будней и деловых встреч
+• для тех, кто выбирает итальянское качество
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#женскаясумка
+#кожанаясумка</description>
+        <param name="Артикул">350231</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_584@23-04-2026_06-33-48.jpg</picture>
+      </offer>
+      <offer id="FEL-0054" available="true">
+        <price>15390</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>👜 Сумка
+Renato Angi
+— новая коллекция
+2026
+!
+Стильный шоппер с фирменным принтом и удобными ручками. Легкий, вместительный и практичный — идеальный вариант на каждый день.
+👜 Сумка, арт. 3504042
+🏷
+Renato Angi
+🗓 Коллекция
+2026
+💰 15 390 ₽
+🆕 Новая коллекция уже в салоне!
+Для кого:
+• для любительниц легких и вместительных аксессуаров
+• для шопинга, учебы и городских прогулок
+• для тех, кто ценит узнаваемый стиль
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#стиль
+#мода
+#норильск
+#шоппер
+#текстильнаясумка</description>
+        <param name="Артикул">3504042</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_585@23-04-2026_06-33-48.jpg</picture>
+      </offer>
+      <offer id="FEL-0055" available="true">
+        <price>26220</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рюкзак</name>
+        <description>🎒👜
+Renato Angi
+— новая коллекция!
+Стильный рюкзак и элегантная сумочка из натуральной кожи. Итальянское качество, лаконичный дизайн и удобная фурнитура — идеальные спутники на каждый день.
+🎒 Рюкзак, арт. 3554917
+💰 26 220 ₽
+👜 Сумочка, арт. 216800
+💰 16 815 ₽
+🏷
+Renato Angi
+🆕 Новая коллекция уже в салоне!
+Для кого:
+• для любительниц стильных и практичных аксессуаров
+• для городских прогулок, шопинга и встреч
+• для тех, кто ценит итальянский стиль
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#рюкзаки
+#сумки
+#аксессуары
+#renatoangi
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#женскийрюкзак
+#кожанаясумка</description>
+        <param name="Артикул">3554917</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_588@24-04-2026_07-59-03.jpg</picture>
+      </offer>
+      <offer id="FEL-0056" available="true">
+        <price>16815</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумочка</name>
+        <description>🎒👜
+Renato Angi
+— новая коллекция!
+Стильный рюкзак и элегантная сумочка из натуральной кожи. Итальянское качество, лаконичный дизайн и удобная фурнитура — идеальные спутники на каждый день.
+🎒 Рюкзак, арт. 3554917
+💰 26 220 ₽
+👜 Сумочка, арт. 216800
+💰 16 815 ₽
+🏷
+Renato Angi
+🆕 Новая коллекция уже в салоне!
+Для кого:
+• для любительниц стильных и практичных аксессуаров
+• для городских прогулок, шопинга и встреч
+• для тех, кто ценит итальянский стиль
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#рюкзаки
+#сумки
+#аксессуары
+#renatoangi
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#женскийрюкзак
+#кожанаясумка</description>
+        <param name="Артикул">216800</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_589@24-04-2026_07-59-03.jpg</picture>
+      </offer>
+      <offer id="FEL-0057" available="true">
+        <price>25365</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>👜 Сумка
+Renato Angi
+— новая коллекция
+2026
+!
+Элегантная сумка из натуральной кожи с лаконичным дизайном и удобной ручкой. Итальянское качество, продуманные детали и стильная фурнитура — для тех, кто ценит комфорт и красоту.
+👜 Сумка, арт. 250398
+🏷
+Renato Angi
+🗓 Коллекция
+2026
+💰 25 365 ₽
+🆕 Новая коллекция уже в салоне!
+Для кого:
+• для любительниц классических аксессуаров
+• для городских будней и деловых встреч
+• для тех, кто выбирает итальянское качество
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#женскаясумка
+#кожанаясумка</description>
+        <param name="Артикул">250398</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_590@25-04-2026_23-56-34.jpg</picture>
+      </offer>
+      <offer id="FEL-0058" available="true">
+        <price>23940</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Рюкзак</name>
+        <description>🎒👜
+Renato Angi
+— новая коллекция
+2026
+!
+Стильный рюкзак и элегантная сумочка из натуральной кожи. Итальянское качество, лаконичный дизайн и удобная фурнитура — идеальные спутники на каждый день.
+🎒 Рюкзак, арт. 3350117
+💰 23 940 ₽
+👜 Сумочка, арт. 3451417
+💰 21 990 ₽
+🏷
+Renato Angi
+🆕 Новая коллекция уже в салоне!
+Для кого:
+• для любительниц стильных и практичных аксессуаров
+• для городских прогулок, шопинга и встреч
+• для тех, кто ценит итальянский стиль
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#рюкзаки
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#женскийрюкзак
+#кожанаясумка</description>
+        <param name="Артикул">3350117</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_592@26-04-2026_08-31-34.jpg</picture>
+      </offer>
+      <offer id="FEL-0059" available="true">
+        <price>21990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумочка</name>
+        <description>🎒👜
+Renato Angi
+— новая коллекция
+2026
+!
+Стильный рюкзак и элегантная сумочка из натуральной кожи. Итальянское качество, лаконичный дизайн и удобная фурнитура — идеальные спутники на каждый день.
+🎒 Рюкзак, арт. 3350117
+💰 23 940 ₽
+👜 Сумочка, арт. 3451417
+💰 21 990 ₽
+🏷
+Renato Angi
+🆕 Новая коллекция уже в салоне!
+Для кого:
+• для любительниц стильных и практичных аксессуаров
+• для городских прогулок, шопинга и встреч
+• для тех, кто ценит итальянский стиль
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#рюкзаки
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#женскийрюкзак
+#кожанаясумка</description>
+        <param name="Артикул">3451417</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_593@26-04-2026_08-31-34.jpg</picture>
+      </offer>
+      <offer id="FEL-0062" available="true">
+        <price>33060</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>👜 Сумка
+Renato Angi
+— коллекция весна-лето
+2026
+!
+Стильная сумка-конверт из натуральной кожи с лаконичным дизайном и длинным ремнем через плечо. Итальянское качество, минималистичный силуэт и фирменная подпись бренда — для тех, кто ценит современный стиль и комфорт.
+👜 Сумка, арт. 35077
+🏷
+Renato Angi
+🗓 Коллекция
+весна-лето 2026
+💰 33 060 ₽
+🆕 Уже в салоне!
+Для кого:
+• для любительниц современного минимализма
+• для городских образов и вечерних выходов
+• для тех, кто выбирает итальянское качество
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#весналето2026
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#женскаясумка
+#кожанаясумка
+#минимализм</description>
+        <param name="Артикул">35077</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_599@29-04-2026_15-52-10.jpg</picture>
+      </offer>
+      <offer id="FEL-0063" available="true">
+        <price>29070</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Сумка</name>
+        <description>👜 Сумка
+Renato Angi
+— новая коллекция
+2026
+!
+Стильная сумка-кроссбоди из светлой натуральной кожи с оригинальной прострочкой и контрастным ремнем. Итальянское качество, современный дизайн и удобная форма — для тех, кто ценит актуальные тренды и комфорт.
+👜 Сумка, арт. 26095
+🏷
+Renato Angi
+🗓 Коллекция
+2026
+💰 29 070 ₽
+🆕 Уже в салоне!
+Для кого:
+• для любительниц современного дизайна
+• для городских прогулок и встреч с друзьями
+• для тех, кто выбирает итальянское качество
+📍 Ленинский пр-т, 40
+📩 Приходите в салон — поможем с выбором!
+📲
+@felicita_norilsk
+#felicita
+#felicitanorilsk
+#сумки
+#аксессуары
+#renatoangi
+#новаяколлекция2026
+#итальянскиесумки
+#стиль
+#мода
+#норильск
+#женскаясумка
+#кожанаясумка
+#кроссбоди</description>
+        <param name="Артикул">26095</param>
+        <picture>https://raw.githubusercontent.com/itaraskin01/felicita-catalog/main/photos/photo_600@29-04-2026_15-52-10.jpg</picture>
+      </offer></offers>
+  </shop>
+</yml_catalog>
